@@ -1,0 +1,4 @@
+sentence(Parse_tree, [the, young, boy, put, a, big, box, in, the, large, empty, room, after, school], []).
+sentence(Parse_tree, [the, old, woman, gave, the, poor, young, man, a, white, envelope, in, the, shed, behind, the,building], []).
+sentence(Parse_tree, [the, pretty, woman, who, worked, with, the, old, man, secretly, gave, me, three, letters], []).
+sentence(Parse_tree, [every, boy, quickly, climbed, some, big, tree], []).
